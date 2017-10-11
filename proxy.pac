@@ -6,6 +6,6 @@ if (shExpMatch(host, "*.google.com") ||
 	)
         return "DIRECT";
 else
-	return "PROXYNOWORKY:8080"
+	return "PROXYNOWORKY:8080";
 
 }
