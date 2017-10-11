@@ -1,6 +1,3 @@
-
-
-
 function FindProxyForURL(url, host) {
 
 if (shExpMatch(host, "*.google.com") || 
